@@ -16,6 +16,7 @@ Este é o repositório do projeto de frontend do **Atende+**, desenvolvido como 
 
 * **Repositório GitHub:** [https://github.com/vitalis-sa/challenge-frontend-4-sprint](https://github.com/vitalis-sa/challenge-frontend-4-sprint)
 * **Vídeo de Demonstração (YouTube):** [https://youtu.be/vJg8ABVXS5E](https://youtu.be/vJg8ABVXS5E)
+* **LINK DO DEPLOY NA NUVEM** [https://portal-de-entrada-662788552627.us-central1.run.app/](https://portal-de-entrada-662788552627.us-central1.run.app/)
 
 ---
 
@@ -36,7 +37,13 @@ O projeto foi construído com um ecossistema moderno baseado em **React**, utili
 
 A organização do código-fonte (`/src`) segue a seguinte estrutura para modularidade e manutenção:
 <pre>
-src/ ├── api/ # Lógica de comunicação com a API (backend) ├── assets/ # Imagens, ícones e outros arquivos estáticos ├── components/ # Componentes React reutilizáveis ├── context/ # Contextos da aplicação (gerenciamento de estado) ├── pages/ # Componentes que representam as páginas da aplicação ├── schemas/ # Esquemas de validação de dados ├── types/ # Definições de tipos e interfaces TypeScript ├── App.tsx # Componente principal da aplicação ├── main.tsx # Arquivo de entrada (renderização do React) └── index.css # Estilos globais
+src/ 
+├── api/ # Lógica de comunicação com a API (backend) 
+├── assets/ # Imagens, ícones e outros arquivos estáticos 
+├── components/ # Componentes React reutilizáveis 
+├── context/ # Contextos da aplicação (gerenciamento de estado) 
+├── pages/ # Componentes que representam as páginas da aplicação ├── schemas/ # Esquemas de validação de dados 
+├── types/ # Definições de tipos e interfaces TypeScript ├── App.tsx # Componente principal da aplicação ├── main.tsx # Arquivo de entrada (renderização do React) └── index.css # Estilos globais
 </pre>
 
 ## 🖼️ Imagens e Ícones
