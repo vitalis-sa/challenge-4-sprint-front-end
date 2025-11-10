@@ -14,7 +14,7 @@ Este é o repositório do projeto de frontend do **Atende+**, desenvolvido como 
 
 ## 🔗 Links
 
-* **Repositório GitHub:** [https://github.com/vitalis-sa/challenge-frontend-4-sprint](https://github.com/vitalis-sa/challenge-frontend-4-sprint)
+* **Repositório GitHub:** [https://github.com/vitalis-sa/challenge-4-sprint-front-end/](https://github.com/vitalis-sa/challenge-4-sprint-front-end/)
 * **Vídeo de Demonstração (YouTube):** [https://youtu.be/vJg8ABVXS5E](https://youtu.be/vJg8ABVXS5E)
 * **LINK DO DEPLOY NA NUVEM** [https://portal-de-entrada-662788552627.us-central1.run.app/](https://portal-de-entrada-662788552627.us-central1.run.app/)
 
